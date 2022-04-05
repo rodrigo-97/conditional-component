@@ -17,7 +17,8 @@
     "READMD.md"
   ],
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/rodrigo-97/conditional-component"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -4,7 +4,7 @@ This project it's a simple if else component for React
 
 ## Examples
 
-instead you using conditions like this.
+instead using conditions like this.
 
 ```jsx
     {

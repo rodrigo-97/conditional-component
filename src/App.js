@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <Conditional 
-        condition={1 === 1}
+        condition={true}
         ifTrueComponent={<p>Rodrigo</p>}
         elseComponent={<p>araujo</p>}
       />

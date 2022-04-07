@@ -1,4 +1,4 @@
-# Getting Started with If Else javascript component
+# Getting Started with If Else React component
 
 This project it's a simple if else component for React
 

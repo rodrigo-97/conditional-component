@@ -1,6 +1,6 @@
 # Getting Started with If Else javascript component
 
-This project it's a simple if else component for javascript
+This project it's a simple if else component for React
 
 ## Examples
 

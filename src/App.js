@@ -1,4 +1,4 @@
-import { Conditional } from "./lib";
+import { Conditional } from "conditional-component-for-react";
 
 function App() {
   return (

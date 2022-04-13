@@ -1,6 +1,6 @@
 {
   "name": "conditional-component-for-react",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",

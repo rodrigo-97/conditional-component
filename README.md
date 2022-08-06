@@ -25,15 +25,15 @@ you could use like this
 ```javascript
     <Conditional
         condition={1 === 1}
-        ifTrueComponent={<p>Hi! I'm content for true value</p>}
-        elseComponent={<p>Hello! I'm content for false value</p>} // this component is optional
+        then={<p>Hi! I'm content for true value</p>}
+        else={<p>Hello! I'm content for false value</p>} // this component is optional
     />
 ```
 
 ```javascript
     <Conditional
         condition={1 === 1}
-        ifTrueComponent={<Component />}
+        then={<Component />}
     />
 ```
 

@@ -10,14 +10,14 @@ import PropTypes from "prop-types";
  *   <Conditional
  *      condition={userHasPermission}
  *      then={
- *        <>
+ *        <p>
  *          Your password is EFD@#SDS
- *        </>
+ *        </p>
  *      }
  *      else={
- *        <>
+ *        <p>
  *          You don't have access
- *        </>
+ *        </p>
  *      }
  *   />
  * )
